@@ -13,5 +13,5 @@
 ## 三,启动方式
   1.在gies_web模块使用spring-boot插件启动
   
- ![启动方式](http://image.baidu.com/search/detail?z=0&word=%E4%BA%91%E5%B1%B1%E8%99%8E%E5%BD%B1&hs=0&pn=1&spn=0&di=0&pi=60576504324&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cs=2259211748%2C1161934985&os=&simid=&adpicid=0&lpn=0&fm=&sme=&cg=&bdtype=-1&oriquery=&objurl=http%3A%2F%2Fe.hiphotos.baidu.com%2Fimage%2Fpic%2Fitem%2Ffc1f4134970a304e210531d0dfc8a786c9175cf0.jpg&fromurl=&gsm=0&catename=pcindexhot&islist=&querylist=)
+ ![启动方式](https://github.com/daipj01/Readme/blob/master/boot.jpg)
 
